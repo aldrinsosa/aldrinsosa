@@ -18,7 +18,7 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-- 🌐 My website: <a href="https://sosag.site" target="_blank">sosag.site</a>
+- 🌐 My website: <a href="https://sosag2.github.io/portfolio/" target="_blank">sosag2.github.io</a>
 - 🕊️ My twitter: <a href="https://twitter.com/SosaG_06" target="_blank">@SosaG_06</a>
 - 📷 My instagram: <a href="https://www.instagram.com/aldrin_sosa/?hl=es-la" target="_blank">@aldrin_sosa</a>
 - 📫 How to reach me: <a href="mailto:sosag@sosag.site">sosag@sosag.site</a>
@@ -32,7 +32,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://sosag.site ...
+- 📫 How to reach me https://sosag2.github.io/portfolio/ ...
 
 SosaG2/SosaG2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
