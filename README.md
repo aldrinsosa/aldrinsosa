@@ -18,21 +18,21 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-- 🌐 My website: <a href="https://sosag2.github.io/portfolio/" target="_blank">sosag2.github.io</a>
-- 🕊️ My twitter: <a href="https://twitter.com/sosaldrin" target="_blank">@sosaldrin</a>
-- 📷 My instagram: <a href="https://www.instagram.com/aldrin_sosa/?hl=es-la" target="_blank">@aldrin_sosa</a>
+- 🌐 My website: <a href="https://aldrinsosa.github.io/portfolio/" target="_blank">https://aldrinsosa.github.io/portfolio/</a>
+<!--- 🕊️ My twitter: <a href="https://twitter.com/sosaldrin" target="_blank">@sosaldrin</a>
+- 📷 My instagram: <a href="https://www.instagram.com/aldrin_sosa/?hl=es-la" target="_blank">@aldrin_sosa</a>--->
 - 📫 How to reach me: <a href="mailto:sosaadrin2006@gmail.com">sosaadrin2006@gmail.com</a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SosaG2&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
+<img src="https://github-readme-stats.vercel.app/api?username=aldrinsosa&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SosaG2&theme=radical&title_color=8E2DE2&text_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldrinsosa&theme=radical&title_color=8E2DE2&text_color=fff)
 
 <!---
-- 👋 Hi, I’m @SosaG2
+- 👋 Hi, I’m @aldrinsosa
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://sosag2.github.io/portfolio/ ...
+- 📫 How to reach me https://aldrinsosa.github.io/portfolio/ ...
 
 SosaG2/SosaG2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
