@@ -23,9 +23,9 @@
 - 📷 My instagram: <a href="https://www.instagram.com/aldrin_sosa/?hl=es-la" target="_blank">@aldrin_sosa</a>--->
 - 📫 How to reach me: <a href="mailto:sosaadrin2006@gmail.com">sosaadrin2006@gmail.com</a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=aldrinsosa&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
+<img src="https://github-readme-stats-aldrinsosa.vercel.app/api?username=aldrinsosa&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldrinsosa&theme=radical&title_color=8E2DE2&text_color=fff)
+![Top Langs](https://github-readme-stats-aldrinsosa.vercel.app/api/top-langs/?username=aldrinsosa&theme=radical&title_color=8E2DE2&text_color=fff)
 
 <!---
 - 👋 Hi, I’m @aldrinsosa
